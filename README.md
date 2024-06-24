@@ -10,5 +10,4 @@ Nowadays I am working on a project I cant mention yet. I also try to show some o
 - Miko
 - graph program
 
-kind regards
 **Void**
