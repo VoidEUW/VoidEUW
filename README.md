@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me
 
-<!--
-**VoidEUW/VoidEUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio
+My Name is Void aka Lukas. Im 19 and I currently study Computer Science at the TU Chemnitz.
+Nowadays I am working on a project I cant mention yet. I also try to show some other small projects, but the time is limited at the coment.
 
-Here are some ideas to get you started:
+### Projects
+- Profile
+- Void Jr
+- Miko
+- graph program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kind regards
+**Void**
