@@ -2,12 +2,14 @@
 
 ### Bio
 My Name is Void aka Lukas. Im 19 and I currently study Computer Science at the TU Chemnitz.
-Nowadays I am working on a project I cant mention yet. I also try to show some other small projects, but the time is limited at the coment.
+Nowadays I am working on improving my skills in Python and C/C++. In Webdevelopement I currently try to learn React.
 
-### Projects
+# Current Projects I worked on
+- Stacat
+
+# Projects that are currently WIP
+- 16-bit-computer
+- Wisp
 - Profile
-- Void Jr
-- Miko
-- graph program
 
 **Void**
