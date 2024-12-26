@@ -39,7 +39,7 @@ int main() {
         developer->major = MAJOR;
 
         developer->languages = "German, English, French, Chinese";
-        developer->programming_languages = "C, C++, Python, Java, JavaScript";
+        developer->programming_languages = "C, C++, Python, Swift, Java, JavaScript";
     }
 
     about_me(developer);
