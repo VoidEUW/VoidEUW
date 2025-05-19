@@ -4,7 +4,7 @@
 
 #define DEVELOPER 1
 #define NAME "Void"
-#define AGE 19
+#define AGE 20
 #define COUNTRY "Germany"
 #define INSITUTION "Technische Universität Chemnitz"
 #define DEGREE "Bachelor of Science"
